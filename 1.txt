@@ -9,6 +9,7 @@ rdinux Interview
  
  
  
+defrefregrgrrgfdefwf
 
 6) What is the advantage of open source?
 Open source facilitates you to distribute your software, including source codes freely to anyone who is interested. So, you can add features and even debug and correct errors of the source code.
