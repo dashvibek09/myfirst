@@ -1,0 +1,84 @@
+retyreyrey
+rdinux Interview Questions
+retyreyrey
+retyreyrey
+
+rdinux Interview Questions
+rdinux Interview
+ 
+ 
+ 
+ 
+
+6) What is the advantage of open source?
+Open source facilitates you to distribute your software, including source codes freely to anyone who is interested. So, you can add features and even debug and correct errors of the source code.
+
+7) What are the basic components of Linux?
+ADVERTISEMENT
+
+Just like other operating systems, Linux has all components like kernel, shells, GUIs, system utilities and application programs.
+
+8) What is the advantage of Linux?
+Every aspect comes with additional features, and it provides a free downloading facility for all codes.
+
+9) Define shell
+It is an interpreter in Linux.
+
+10) Name some shells that are commonly used in Linux.
+The most commonly used shells in Linux are bash, csh, ksh, bsh.
+
+11) Name the Linux which is specially designed by the Sun Microsystems.
+Solaris is the Linux of Sun Microsystems.
+
+12) Name the Linux loader.
+LILO is the Linux loader.
+
+13) If you have saved a file in Linux. Later you wish to rename that file, what command is designed for it?
+The 'mv' command is used to rename a file.
+
+14) Write about an internal command.
+The commands which are built in the shells are called as the internal commands.
+
+15) Define inode.
+Each file is given a unique name by the operating system which is called as the inode.
+
+16) If the programmer wishes to execute an instruction at the specified time. Which command is used?
+ADVERTISEMENT
+
+The 'at' command is used for the same.
+
+17) Explain process id.
+The operating system uniquely identifies each process by a unique id called as the process id.
+
+18) Name some Linux variants.
+Some of the Linux commands are:
+
+CentOS
+Ubuntu
+Redhat
+Debian
+Fedora
+19) What is Swap Space?
+Swap space is used to specify a space which is used by Linux to hold some concurrent running program temporarily. It is used when RAM does not have enough space to hold all programs that are executing.
+
+20) What is BASH?
+BASH is a short form of Bourne Again SHell. It was a replacement to the original Bourne shell, written by Steve Bourne.
+
+21) What is the basic difference between BASH and DOS?
+BASH commands are case sensitive while DOS commands are not case sensitive.
+DOS follows a convention in naming files. In DOS, 8 character file name is followed by a dot and 3 characters for the extension. BASH doesn't follow such convention.
+22) What is a root account?
+rdinux Interview Questions
+rdinux Interview Questions
+rdinux Interview Questions
+rdinux Interview Questions
+rdinux Interview Questions
+rdinux Interview Questions
+rdinux Interview Questions
+rdinux Interview Questions
+rdinux Interview Questions
+rdinux Interview Questions
+rdinux Interview Questions
+rdinux Interview Questions
+rdinux Interview Questions
+rdinux Interview Questions
